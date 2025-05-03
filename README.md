@@ -16,3 +16,4 @@ An AI chatbot built using **React JS**, **Vite**, **Tailwind CSS**, and the **Go
 git clone https://github.com/hilalanas20/gemini-ai-chat.git
 cd gemini-ai-chat
 npm install
+npm run dev 
